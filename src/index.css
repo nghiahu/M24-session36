@@ -1,0 +1,13 @@
+.nav{
+    display:flex;
+    gap:5px;
+}
+.nav button{
+    border: none;
+    padding: 10px;
+}
+.act{
+    background-color: rgb(144, 141, 141);
+    color: #fff;
+    border: none;
+}
